@@ -2,8 +2,8 @@
 
 | Dataset | Transaction Lines | Invoices | Customers | Revenue |
 |---|---:|---:|---:|---:|
-| Raw transactions | ... | ... | ... | ... |
-| Clean transactions | ... | ... | ... | ... |
+| Raw transactions | 34 | 30 | 24 | 1256.50 |
+| Clean transactions | 29 | 26 | 22 | 1216.00 |
 
 ## Cleaning Rules
 
